@@ -11,4 +11,4 @@
 
 ### 💻 My IDE's/editors
 
-[![My Skills](https://skillicons.dev/icons?i=pycharm,clion,vim,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,clion,vscode,vim,neovim)](https://skillicons.dev)
