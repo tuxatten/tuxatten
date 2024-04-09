@@ -7,8 +7,8 @@
 - [Telegram]()
 
 ### 📖 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,django,git,docker,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,c,git,docker,bash)](https://skillicons.dev)
 
 ### 💻 My IDE's/editors
 
-[![My Skills](https://skillicons.dev/icons?i=pycharm,vim,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,clion,vim,neovim)](https://skillicons.dev)
