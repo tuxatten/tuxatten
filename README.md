@@ -6,9 +6,9 @@
 - [Email](tuxatten@gmail.com)
 - [Telegram]()
 
-### 📖 Skills
+### 📖 My Skills
 [![My Skills](https://skillicons.dev/icons?i=python,django,c,git,docker,bash,markdown)](https://skillicons.dev)
 
-### 💻 My IDE's/editors
+### 💻 IDE's/editors
 
 [![My Skills](https://skillicons.dev/icons?i=pycharm,clion,vscode,vim,neovim)](https://skillicons.dev)
