@@ -8,7 +8,3 @@
 
 ### 📖 My Skills
 [![My Skills](https://skillicons.dev/icons?i=python,django,c,git,docker,bash,markdown)](https://skillicons.dev)
-
-### 💻 IDE's/editors
-
-[![My Skills](https://skillicons.dev/icons?i=pycharm,clion,vscode,vim,neovim)](https://skillicons.dev)
