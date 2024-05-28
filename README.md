@@ -7,4 +7,4 @@
 - [Telegram]()
 
 ### 📖 My Skills
-[![My Skills](https://skillicons.dev/icons?i=python,django,c,git,docker,bash,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,c,go,git,docker,bash,markdown)](https://skillicons.dev)
