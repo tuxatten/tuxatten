@@ -6,5 +6,5 @@
 - [Email](tuxatten@gmail.com)
 - [Telegram]()
 
-### 📖 My Skills
+### 💪 My Skills
 [![My Skills](https://skillicons.dev/icons?i=python,django,c,go,git,docker,bash,markdown)](https://skillicons.dev)
