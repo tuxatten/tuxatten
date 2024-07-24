@@ -8,8 +8,3 @@
 
 ### 💪 My Skills
 [![My Skills](https://skillicons.dev/icons?i=python,django,c,go,git,docker,bash,markdown)](https://skillicons.dev)
-
-### 📖 I am currenly learning
-[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
-
-### 💫 Fun fact
