@@ -9,4 +9,3 @@
 
 ### 💪 My Skills
 [![My Skills](https://skillicons.dev/icons?i=python,django,c,go,bash,markdown,git,docker)](https://skillicons.dev)
-.
