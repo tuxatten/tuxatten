@@ -8,4 +8,7 @@
 - [Kwork](https://kwork.com/user/tuxatten)
 
 ### 💪 My Skills
-[![My Skills](https://skillicons.dev/icons?i=python,django,c,go,bash,markdown,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,c,go,bash,markdown)](https://skillicons.dev)
+
+### ⚙ Tools
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) [![My Skills](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md/)
