@@ -3,9 +3,8 @@
 
 
 ### 📫 How to reach me
-- [Email](tuxatten@gmail.com)
-- [Telegram](https://t.me/tuxatten)
-- [Kwork](https://kwork.com/user/tuxatten)
+![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=Gmail&logoColor=white&link=https%3A%2F%2Ft.me%2Ftuxatten)
+![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=Telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Ftuxatten)
 
 ### 💪 My Skills
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev/) [![My Skills](https://skillicons.dev/icons?i=go)](https://go.dev/) [![My Skills](https://skillicons.dev/icons?i=godot)](https://godotengine.org/)
