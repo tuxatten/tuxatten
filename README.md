@@ -3,7 +3,7 @@
 
 
 ### 📫 How to reach me
-![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=Gmail&logoColor=white&link=https%3A%2F%2Ft.me%2Ftuxatten)
+![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=Gmail&logoColor=white&link=http%3A%2F%2Fmailto%3Atuxatten%40gmail.com)
 ![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=Telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Ftuxatten)
 
 ### 💪 My Skills
