@@ -1,6 +1,6 @@
 ## 👋 Hi there, i'm Back-end Web Developer
 
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 - [Telegram](https://t.me/tuxatten)
 
 <!--``
