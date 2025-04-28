@@ -2,6 +2,10 @@
 
 ### 📫 How to Reach Me
 - [Telegram](https://t.me/tuxatten)
+- [Email]()
+
+### 💪 Skills
+
 
 <!--``
 **tuxatten/tuxatten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
