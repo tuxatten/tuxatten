@@ -4,8 +4,8 @@
 - [Telegram](https://t.me/tuxatten)
 - [Email]()
 
-### 💪 Skills
-
+### 💪 My Skills
+[![My Skills](https://skillicons.dev/icons?i=python)](https://python.org) [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
 <!--``
 **tuxatten/tuxatten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
