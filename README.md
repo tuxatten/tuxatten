@@ -1,7 +1,8 @@
-## 👋 Hi there, i'm Back-end Web Developer
+## 👋 Hi there, I'm Back-end Web Developer
 
 ### 📫 How to Reach Me
-- [Telegram](https://t.me/tuxatten)
+- [Portfolio](https://tuxatten.me)
+- [Telegram](https://t.me/mxfce)
 - [Email]()
 
 ### 💪 My Skills
